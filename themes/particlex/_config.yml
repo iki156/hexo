@@ -28,7 +28,7 @@ menu:
         name: house
         theme: solid
         link: /
-    Archives:
+    Search:
         name: box-archive
         theme: solid
         link: /archives
