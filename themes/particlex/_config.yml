@@ -28,18 +28,10 @@ menu:
         name: house
         theme: solid
         link: /
-    About:
-        name: id-card
-        theme: solid
-        link: /about
     Archives:
         name: box-archive
         theme: solid
         link: /archives
-    Categories:
-        name: bookmark
-        theme: solid
-        link: /categories
     Tags:
         name: tags
         theme: solid
