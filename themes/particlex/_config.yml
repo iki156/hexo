@@ -32,10 +32,10 @@ menu:
         name: box-archive
         theme: solid
         link: /archives
-    Tags:
-        name: tags
-        theme: solid
-        link: /tags
+    # Tags:
+    #     name: tags
+    #     theme: solid
+    #     link: /tags
 
 # Side info card
 card:
